@@ -1,5 +1,7 @@
 [![Build Status](https://api.travis-ci.org/IBM/watson-online-store.svg?branch=master)](https://travis-ci.org/IBM/watson-online-store)
 
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
 # Creating a Retail Chatbot using Watson Assistant, Discovery and Database Services
 
 *Read this in other languages: [한국어](README_ko.md)*
